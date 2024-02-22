@@ -1,5 +1,7 @@
 # EXPERIMENT 02: GENERATING ASSOCIATION RULES FOR EMPLOYEE DATASET USING APRIORI ALGORITHM
-## DATE: 17.02.2024
+## DATE: 22.02.2024
+## NAME : A K MOHAN RAJ
+## REG NO : 212221230064
 ## AIM: 
 To generate associate rules for the employee dataset using Apriori Algorithm.
 ## DESCRIPTION:
